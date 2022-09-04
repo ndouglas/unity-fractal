@@ -1,1 +1,3 @@
-# unity-fractal
+# Fractal
+
+A little rotaty fractal in Unity.
